@@ -1,7 +1,3 @@
-Here's the updated profile with your LinkedIn link added:
-
----
-
 <h1 align="center">👋 Hi, I'm Mrunali Bhandarkar</h1>
 <h3 align="center">♾️ DevOps Engineer | ☁️ AWS | ⚙️ CI/CD Enthusiast</h3>
 
@@ -28,7 +24,3 @@ Here's the updated profile with your LinkedIn link added:
 | Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub | VS Code | AWS |
 |:-----:|:---------:|:-------:|:----------:|:-------:|:------:|:----:|:------:|:-------:|:-------:|:---:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="50" height="50"/> |
-
----
-
-Let me know if there are any other adjustments you would like!
